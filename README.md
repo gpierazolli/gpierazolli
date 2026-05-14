@@ -1,7 +1,21 @@
 # gpierazolli
-
+-----
 <img src="github-header-banner.png" alt="banner" width="100%" />
+-----
+Meu nome é Gabriela Pierazolli
 
+ Sou aluna de Engenharia de Software na PUC Minas
+ Atualmente estou aprendendo e desenvolvendo projetos com:
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* C
+
+ Estou em constante evolução na área da tecnologia, buscando aprender mais sobre desenvolvimento full stack, programação e criação de soluções criativas.
+
+✨ Seja bem-vindo(a) ao meu perfil! ✨
 -----
 <div align="center">
 <table>
