@@ -4,6 +4,7 @@
 -----
 
 ✨ Seja bem-vindo(a) ao meu perfil! ✨
+
 Meu nome é Gabriela Pierazolli
 
  Sou aluna de Engenharia de Software na PUC Minas
