@@ -5,9 +5,10 @@
 
 ✨ Seja bem-vindo(a) ao meu perfil! ✨
 
-Meu nome é Gabriela Pierazolli
+Meu nome é Gabriela Pinheiro Pierazolli
 
- Sou aluna de Engenharia de Software na PUC Minas
+ Sou aluna de Engenharia de Software na PUC Minas.
+ 
  Atualmente estou aprendendo e desenvolvendo projetos com:
 
 * HTML
