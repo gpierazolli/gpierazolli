@@ -1,1 +1,43 @@
-# gabipierazolli
+# gpierazolli
+-----
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+
+<tr>
+
+<td>
+  <a href="https://github.com/gpierazolli" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/>
+  </a>
+</td>
+
+<td>
+  <a href="mailto:gpierazolli2007@gmail.com" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/>
+  </a>
+</td>
+
+<td>
+  <a href="https://wa.me/5531971431230" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/>
+  </a>
+</td>
+
+<td>
+  <a href="https://www.instagram.com/gppierazolli/" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
+  </a>
+</td>
+
+</tr>
+
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+</table>
+</div>
+
+----
