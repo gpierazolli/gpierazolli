@@ -1,4 +1,7 @@
 # gpierazolli
+
+<img src="github-header-banner.png" alt="banner" width="100%" />
+
 -----
 <div align="center">
 <table>
