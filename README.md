@@ -1,7 +1,7 @@
 # gpierazolli
 -----
 <img src="github-header-banner.png" alt="banner" width="100%" />
------
+
 
 ✨ Seja bem-vindo(a) ao meu perfil! ✨
 
