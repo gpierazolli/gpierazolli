@@ -2,6 +2,8 @@
 -----
 <img src="github-header-banner.png" alt="banner" width="100%" />
 -----
+
+✨ Seja bem-vindo(a) ao meu perfil! ✨
 Meu nome é Gabriela Pierazolli
 
  Sou aluna de Engenharia de Software na PUC Minas
@@ -14,8 +16,7 @@ Meu nome é Gabriela Pierazolli
 * C
 
  Estou em constante evolução na área da tecnologia, buscando aprender mais sobre desenvolvimento full stack, programação e criação de soluções criativas.
-
-✨ Seja bem-vindo(a) ao meu perfil! ✨
+ 
 -----
 <div align="center">
 <table>
