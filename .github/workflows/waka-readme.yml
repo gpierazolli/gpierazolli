@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,7 +19,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           SECTION_NAME: waka
-
           SHOW_LANGUAGE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
 
@@ -41,4 +43,3 @@ jobs:
           BAR_RADIUS: "6"
           TEXT_PRIMARY_COLOR: "#374151"
           TEXT_SECONDARY_COLOR: "#6B7280"
-
