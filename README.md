@@ -4,20 +4,11 @@
 
 ## ✨ Olá, seja bem-vindo(a) ao meu perfil!
 
-Meu nome é **Gabriela Pinheiro Pierazolli**.
+Meu nome é **Gabriela Pinheiro Pierazolli**, estudante de **Engenharia de Software na PUC Minas**, e sou apaixonada por tecnologia, desenvolvimento e resolução de problemas.
 
-Sou estudante de **Engenharia de Software na PUC Minas**.
+Atualmente, estou construindo minha trajetória na área de TI, explorando diferentes tecnologias, desenvolvendo projetos e buscando transformar cada aprendizado em experiência prática. Gosto de entender a lógica por trás das soluções, enfrentar novos desafios e aprender continuamente.
 
-Atualmente estou aprendendo e desenvolvendo projetos com:
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- C
-- Java
-
-Estou em constante evolução na área da tecnologia, buscando aprender mais sobre **desenvolvimento full stack, programação e criação de soluções criativas**.
+Acredito que a tecnologia vai muito além do código: **é sobre criar soluções, compartilhar conhecimento e evoluir constantemente**. 
 
 ---
 
@@ -40,9 +31,22 @@ Estou em constante evolução na área da tecnologia, buscando aprender mais sob
 
 <div align="center">
 
-<a href="https://wakatime.com/@gabipierazolli">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8wDvO_9u47H4oBF5bBj8Bw6xRsUqlShCWFm7qHunjg&s=10" alt="WakaTime" width="100px" height="100px" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+##  Portfólio 
+
+<div align="center">
+
+<td align="center">
+  <a href="https://portfolio-two-coral-64.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/7867/7867835.png" width="80px" height="80px"/>
+  </a>
+</td>
 
 </div>
 
@@ -56,13 +60,7 @@ Estou em constante evolução na área da tecnologia, buscando aprender mais sob
 <tr>
 
 <td align="center">
-  <a href="https://github.com/gpierazolli" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/>
-  </a>
-</td>
-
-<td align="center">
-  <a href="mailto:gpierazolli2007@gmail.com" target="_blank">
+  <a href="mailto:gabrielapierazolli@gmail.com" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
@@ -73,15 +71,16 @@ Estou em constante evolução na área da tecnologia, buscando aprender mais sob
   </a>
 </td>
 
+
 <td align="center">
-  <a href="https://www.instagram.com/gppierazolli/" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
+  <a href="https://www.linkedin.com/in/gabrielapierazolli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="50px"/>
   </a>
 </td>
 
 <td align="center">
-  <a href="https://www.linkedin.com/in/gabriela-pinheiro-pierazolli-a6112840b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="50px"/>
+  <a href="https://www.instagram.com/gabipierazolli/" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
