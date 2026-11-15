@@ -31,23 +31,12 @@ Acredito que a tecnologia vai muito além do código: **é sobre criar soluçõe
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 November 2026 - To: 15 November 2026
-
-Total Time: 3 hrs 24 mins
-
-Python       1 hr 39 mins          ████████████░░░░░░░░░░░░░   48.41 %
-Markdown     1 hr 27 mins          ██████████▓░░░░░░░░░░░░░░   42.73 %
-XML          14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-TypeScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
-</div>
+<table> 
+<tr>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=gabipierazolli&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,5 +88,16 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 
 </tr>
 </table>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
