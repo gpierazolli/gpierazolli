@@ -32,6 +32,19 @@ Acredito que a tecnologia vai muito além do código: **é sobre criar soluçõe
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 November 2026 - To: 15 November 2026
+
+Total Time: 3 hrs 24 mins
+
+Python       1 hr 39 mins          ████████████░░░░░░░░░░░░░   48.41 %
+Markdown     1 hr 27 mins          ██████████▓░░░░░░░░░░░░░░   42.73 %
+XML          14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+TypeScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
